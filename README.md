@@ -1,11 +1,11 @@
-# Kaggle_Titanic
-the data and ipython notebook of my attempt to solve the kaggle titanic problem
+# Kaggle 上最经典的问题 Titanic 逃生预测
+取自寒小阳Github仓库(https://github.com/HanXiaoyang/Kaggle_Titanic)，学习用。
 
-我自己实验Kaggle上的[Titanic问题](https://www.kaggle.com/c/titanic)的ipython notebook
+# 数据
+train.csv 训练数据
+test.csv 测试数据
 
-train.csv和test.csv为使用到的的数据
-
-对于**该问题的详细讲解**和**机器学习解决问题的一般思路**请戳[寒小阳的博客](http://blog.csdn.net/han_xiaoyang/article/details/49797143)
-
-有任何问题欢迎联系hanxiaoyang.ml@gmail.com
+# 更深入详细的说明
+参考寒小阳博客 http://blog.csdn.net/han_xiaoyang/article/details/49797143
+或联系本人 hanxiaoyang.ml@gmail.com
 
